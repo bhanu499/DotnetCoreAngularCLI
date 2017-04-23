@@ -1,0 +1,10 @@
+c:\users\bssaladi\documents\visual studio 2017\Projects\netcoreangularcli\netcoreangularcli\bin\Debug\netcoreapp1.1\netcoreangularcli.deps.json
+c:\users\bssaladi\documents\visual studio 2017\Projects\netcoreangularcli\netcoreangularcli\bin\Debug\netcoreapp1.1\netcoreangularcli.runtimeconfig.json
+c:\users\bssaladi\documents\visual studio 2017\Projects\netcoreangularcli\netcoreangularcli\bin\Debug\netcoreapp1.1\netcoreangularcli.runtimeconfig.dev.json
+c:\users\bssaladi\documents\visual studio 2017\Projects\netcoreangularcli\netcoreangularcli\bin\Debug\netcoreapp1.1\netcoreangularcli.dll
+c:\users\bssaladi\documents\visual studio 2017\Projects\netcoreangularcli\netcoreangularcli\bin\Debug\netcoreapp1.1\netcoreangularcli.pdb
+c:\users\bssaladi\documents\visual studio 2017\Projects\netcoreangularcli\netcoreangularcli\obj\Debug\netcoreapp1.1\netcoreangularcli.csprojResolveAssemblyReference.cache
+c:\users\bssaladi\documents\visual studio 2017\Projects\netcoreangularcli\netcoreangularcli\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\bssaladi\documents\visual studio 2017\Projects\netcoreangularcli\netcoreangularcli\obj\Debug\netcoreapp1.1\netcoreangularcli.AssemblyInfo.cs
+c:\users\bssaladi\documents\visual studio 2017\Projects\netcoreangularcli\netcoreangularcli\obj\Debug\netcoreapp1.1\netcoreangularcli.dll
+c:\users\bssaladi\documents\visual studio 2017\Projects\netcoreangularcli\netcoreangularcli\obj\Debug\netcoreapp1.1\netcoreangularcli.pdb
