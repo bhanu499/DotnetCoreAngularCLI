@@ -1,4 +1,4 @@
-﻿import { Component } from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +6,5 @@
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'this is lot more funny aboutdsfsdfsdf hmr!';
+  title = 'banu and jayaram rocks !!!!';
 }
